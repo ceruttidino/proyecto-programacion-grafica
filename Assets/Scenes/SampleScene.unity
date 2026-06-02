@@ -1979,7 +1979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b7d309e3b61ead4ba17928bb5997140, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Dissolver
-  dissolveDuration: 2
+  dissolveDuration: 5
   dissolveAmount: 0
   startColor: {r: 1, g: 0, b: 0, a: 0}
   endColor: {r: 1, g: 1, b: 0, a: 0}
